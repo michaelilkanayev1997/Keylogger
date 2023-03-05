@@ -12,7 +12,7 @@ The Keylogger was written in Python in the pycharm work environment.
 
 1. Capture data on mouse movement, clicks and more.
 2. Capturing keys on the keyboard, passwords and more. Including saving the copy-paste and the location in Windows.
-3. Saving screenshots.
+3. Saving screenshots when the key Enter is pressed.
 4. The Keylogger works in a way that is not visible to the user.
 5. The information captured by the Keylogger will be sent to the email of the "hacker".
 6. The Keylogger is automatically restarted during a restart or when the computer is turned on.
