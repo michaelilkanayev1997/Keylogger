@@ -23,3 +23,8 @@ In addition to the project, this course included a presentation in front of the 
 
 This is the presentation I made and presented:
 [Keylogger.pptx](https://github.com/michaelilkanayev1997/Keylogger/files/10891989/Keylogger.pptx)
+
+Video showing the project:
+* https://www.youtube.com/watch?v=yZLG0jY99Ds
+
+---------------------------------------------------------------------------------------------------
