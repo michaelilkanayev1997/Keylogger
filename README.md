@@ -1,5 +1,7 @@
 # Keylogger
 
+<img src="https://user-images.githubusercontent.com/93651794/222966006-e0344c1e-8de8-4d09-b681-b9ec223e0355.png" width="35%" height="35%" ></img>
+
 This is a project I did as part of a case study course in cyber defense in the third year.
 The Keylogger was written in Python in the pycharm work environment.
 
