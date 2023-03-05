@@ -3,6 +3,7 @@
 <img src="https://user-images.githubusercontent.com/93651794/222966006-e0344c1e-8de8-4d09-b681-b9ec223e0355.png" width="35%" height="35%" ></img>
 
 This is a project I did as part of a case study course in cyber defense in the third year.
+
 The Keylogger was written in Python in the pycharm work environment.
 
 ## Project description:
@@ -16,6 +17,9 @@ The Keylogger was written in Python in the pycharm work environment.
 5. The information captured by the Keylogger will be sent to the email of the "hacker".
 6. The Keylogger is automatically restarted during a restart or when the computer is turned on.
 
+### `Presentation:`
+
 In addition to the project, this course included a presentation in front of the class about the project subject.
-This is the presentation I made:
+
+This is the presentation I made and presented:
 [Keylogger.pptx](https://github.com/michaelilkanayev1997/Keylogger/files/10891989/Keylogger.pptx)
